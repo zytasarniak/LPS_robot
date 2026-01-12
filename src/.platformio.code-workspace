@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../.platformio"
+		},
+		{
+			"name": "lps_robot",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
